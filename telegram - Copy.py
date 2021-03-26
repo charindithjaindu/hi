@@ -3,7 +3,7 @@ import requests
 import os
 from time import sleep
 
-api_id = 1567951
+api_id = 123445
 api_hash = ''
 TOKEN=str('')
 BOT_url='https://api.telegram.org/bot'+TOKEN
